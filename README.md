@@ -1,1 +1,2 @@
-# Hi, I am Hamed Nikseresht a Data analyst 
+## Hi there
+### I am Hamed Nikseresht a Data analyst
