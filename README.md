@@ -1,3 +1,1 @@
-### Hi, there
-### I am Hamed Nikseresht a Data analyst.
-I love working with data and I enjoy storytelling with data.
+Hey there! I'm a senior data analyst with years of experience in the eCommerce industry. I love crunching numbers and turning data into actionable insights. You can find my work on GitHub, where I showcase my skills and projects. Let's connect and explore the exciting world of data together!
